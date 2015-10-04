@@ -7,39 +7,31 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>26875852-C774-43F3-AA00-4CB73274EDE4</string>
 	<key>IDESourceControlProjectName</key>
-	<string>pennerExample</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>68499E0C0124B9BF3358BCD8B0D228C046EA5E8D</key>
+		<string>https://github.com/edap/pennerEquationsExample.git</string>
 		<key>7E804D925461714118DB355C65BC964B41D94376</key>
 		<string>github.com:rezaali/ofxUI.git</string>
-		<key>9DC7F8385D42121C7D170B4DB31223FC5EE80C11</key>
-		<string>https://github.com/edap/OFAnimation_Spring2015</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>week01_HOMEWORK/pennerExample.xcodeproj</string>
+	<string>pennerExample.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>68499E0C0124B9BF3358BCD8B0D228C046EA5E8D</key>
+		<string>../..</string>
 		<key>7E804D925461714118DB355C65BC964B41D94376</key>
-		<string>../../../../../addons/ofxUI</string>
-		<key>9DC7F8385D42121C7D170B4DB31223FC5EE80C11</key>
-		<string>../../..</string>
+		<string>../../../../../OF/of_v0.8.4_osx_release/addons/ofxUI</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/edap/OFAnimation_Spring2015</string>
+	<string>https://github.com/edap/pennerEquationsExample.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>9DC7F8385D42121C7D170B4DB31223FC5EE80C11</string>
+	<string>68499E0C0124B9BF3358BCD8B0D228C046EA5E8D</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>9DC7F8385D42121C7D170B4DB31223FC5EE80C11</string>
-			<key>IDESourceControlWCCName</key>
-			<string>OFAnimation_Spring2015</string>
-		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
@@ -47,6 +39,14 @@
 			<string>7E804D925461714118DB355C65BC964B41D94376</string>
 			<key>IDESourceControlWCCName</key>
 			<string>ofxUI</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>68499E0C0124B9BF3358BCD8B0D228C046EA5E8D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>pennerEquationExample</string>
 		</dict>
 	</array>
 </dict>

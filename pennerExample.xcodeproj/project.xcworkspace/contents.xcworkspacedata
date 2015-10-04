@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../src/circle.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../src/circle.h">
+   </FileRef>
+   <FileRef
       location = "self:pennerExample.xcodeproj">
    </FileRef>
 </Workspace>
